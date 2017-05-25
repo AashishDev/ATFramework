@@ -10,6 +10,7 @@ import UIKit
 
  public class ATLog: NSObject {
 
+    // http://www.yudiz.com/creating-your-own-ios-framework-and-distributed-using-cocoapods/
     public func showMsg(){
         print("Nice to use ATFramework");
     }
